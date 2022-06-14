@@ -1,11 +1,12 @@
+import Headar from "./Components/headar/Headar";
 
 
 function App() {
   return (
     <div className="layout">
-    
-    <headar>Shopping Cart</headar>
-    <main>Content</main>
+
+<Headar /> 
+ <main>Content</main>
     <footer>Footer</footer>
 
     </div>
