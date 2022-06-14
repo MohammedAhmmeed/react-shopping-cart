@@ -2,8 +2,12 @@
 
 function App() {
   return (
-    <div className="App">
-     App
+    <div className="layout">
+    
+    <headar>Shopping Cart</headar>
+    <main>Content</main>
+    <footer>Footer</footer>
+
     </div>
   );
 }
