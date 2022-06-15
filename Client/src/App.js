@@ -1,3 +1,4 @@
+import Footer from "./Components/Footer/Footer";
 import Headar from "./Components/headar/Headar";
 
 
@@ -7,7 +8,7 @@ function App() {
 
 <Headar /> 
  <main>Content</main>
-    <footer>Footer</footer>
+<Footer />
 
     </div>
   );
