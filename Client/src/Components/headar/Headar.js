@@ -1,10 +1,12 @@
 import React from 'react';
 import "../../css/headar/Headar.css";
+import {words} from "./words"
+
 
 function Headar() {
     return (
         <headar>
-           Shopping Cart 
+           {words.headarTitle}
         </headar>
     )
 }

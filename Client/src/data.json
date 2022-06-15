@@ -1,0 +1,37 @@
+[
+    {
+        "id": "id1",
+        "title": "computer",
+        "image": "/images/product1.jpg",
+        "dest": "This is Product 1",
+        "price": 30,
+        "sizes": ["s","m"]
+    },
+
+    {
+        "id": "id2",
+        "title": "Mobile",
+        "image": "/images/product2.jpg",
+        "dest": "This is Product 2",
+        "price": 50,
+        "sizes": ["s","m"]
+    },
+
+    {
+        "id": "id3",
+        "title": "LabTop",
+        "image": "/images/product3.jpg",
+        "dest": "This is Product 3",
+        "price": 100,
+        "sizes": ["s","m"]
+    },
+
+    {
+        "id": "id4",
+        "title": "Tab",
+        "image": "/images/product4.jpg",
+        "dest": "This is Product 4",
+        "price": 40,
+        "sizes": ["s","m"]
+    }
+]
