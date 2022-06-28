@@ -1,11 +1,11 @@
 import React from 'react';
 import "../../css/Footer/Footer.css";
-import {Words} from "../../words"
+import {words} from "../../words.js"
 
 function Footer() {
     return (
         <footer>
-            {Words.footerTitle}
+            {words.footerTitle}
 
         </footer>
     )
