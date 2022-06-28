@@ -1,6 +1,6 @@
 import React from 'react';
 import "../../css/headar/Headar.css";
-import {words} from "./words"
+import {words} from "../../words.js"
 
 
 function Headar() {
